@@ -44,7 +44,7 @@ A small sample dataset is used with the following structure:
 ------------------------------------
 |      text	              | label  |
 ------------------------------------
-|"Win a free iPhone now"	|  1     |
+|"Win a free iPhone now"    |  1     |
 |"Meeting at 3 PM"	      |  0     |
 |"Buy now and save big"	  |  1     |
 ------------------------------------
