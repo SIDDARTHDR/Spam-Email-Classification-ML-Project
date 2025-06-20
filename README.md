@@ -1,4 +1,5 @@
 📧 Spam Email Classification using Machine Learning
+
 This project demonstrates a simple machine learning pipeline to classify emails as Spam or Not Spam using text data. It uses a Naive Bayes classifier and CountVectorizer to train a model on a sample dataset.
 
 📂 Project Structure
